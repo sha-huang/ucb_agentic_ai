@@ -8,7 +8,7 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9n
 
 | Lecture | Title | Speaker |
 | -- | -- | -- |
-| 01 | Inference-Time Techniques for LLM Reasoning | Xinyun Chen |
+| [01](./ucb_cs294-280_25sp_lec01.md) | Inference-Time Techniques for LLM Reasoning | Xinyun Chen |
 | 02 | Learning to Reason with LLMs | Jason Weston |
 | 03 | On Reasoning, Memory, and Planning of Language Agents | Yu Su |
 | 04 | Open Training Recipes for Reasoning in Language Models | Hanna Hajishirzi |
