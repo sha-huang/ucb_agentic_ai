@@ -17,6 +17,6 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4
 | 07 | AI Agents for Enterprise Workflows | Nicolas Chapados |
 | 08 | Towards a Unified Framework of Neural and Symbolic Decision Making | Yuandong Tian |
 | 09 | Project GR00T: A Blueprint for Generalist Robotics | Jim Fan |
-| 10 | Open-Source and Science in the Era of Foundation Models | Percy Liang |
+| [10](./ucb_cs294-196_24fa_lec10.md) | Open-Source and Science in the Era of Foundation Models | Percy Liang |
 | 11 | Measuring Agent Capabilities and Anthropic's RSP | Ben Mann |
 | 12 | Towards Building Safe & Trustworthy AI Agents and A Path for Science- and Evidence-based AI Policy | Dawn Song |
