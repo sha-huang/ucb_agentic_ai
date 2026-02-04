@@ -17,7 +17,7 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZ
 | 06 | Multi-Agent AI | Noam Brown |
 | 07 | Predictable Noise in LLM Benchmarks | Sida Wang |
 | 08 | AI Agents for Accelerating Scientific Discoveries | James Zou |
-| 09 | Practical Lessons from Deploying Real-World AI Agents | Clay Bavor |
+| [09](./ucb_cs294-196_25fa_lec09.md) | Practical Lessons from Deploying Real-World AI Agents | Clay Bavor |
 | [10](./ucb_cs294-196_25fa_lec10.md) | AlphaStar Revisited: Multi-Agent Systems in the Era of LLMs | Oriol Vinyals |
 | 11 | Autonomous Agents: Embodiment, Interaction, and Learning | Peter Stone |
 | 12 | Towards Building Safe & Secure Agentic AI | Dawn Song |
