@@ -11,7 +11,7 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9n
 | [01](./ucb_cs294-280_25sp_lec01.md) | Inference-Time Techniques for LLM Reasoning | Xinyun Chen |
 | 02 | Learning to Reason with LLMs | Jason Weston |
 | 03 | On Reasoning, Memory, and Planning of Language Agents | Yu Su |
-| 04 | Open Training Recipes for Reasoning in Language Models | Hanna Hajishirzi |
+| [04](./ucb_cs294-280_25sp_lec04.md) | Open Training Recipes for Reasoning in Language Models | Hannaneh Hajishirzi |
 | 05 | Coding Agents and AI for Vulnerability Detection | Charles Sutton |
 | 06 | Multimodal Autonomous AI Agents | Ruslan Salakhutdinov |
 | 07 | Multimodal Agents – From Perception to Action | Caiming Xiong |
