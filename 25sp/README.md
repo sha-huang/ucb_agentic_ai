@@ -18,5 +18,5 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9n
 | 08 | AlphaProof: When Reinforcement Learning Meets Formal Mathematics | Thomas Hubert |
 | 09 | Language Models for Autoformalization and Theorem Proving | Kaiyu Yang |
 | 10 | Bridging Informal and Formal Mathematics Reasoning | Sean Welleck |
-| 11 | Abstraction and Discovery with Large Language Model Agents | Swarat Chaudhuri |
+| [11](./ucb_cs294-280_25sp_lec11.md) | Abstraction and Discovery with Large Language Model Agents | Swarat Chaudhuri |
 | 12 | Towards Building Safe and Secure Agentic AI | Dawn Song |
