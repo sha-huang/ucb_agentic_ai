@@ -13,7 +13,7 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZ
 | [02](./ucb_cs294-196_25fa_lec02.md) | Evolution of System Designs from an AI Engineer's Perspective | Yangqing Jia |
 | [03](./ucb_cs294-196_25fa_lec03.md) | Post-Training Verifiable Agents | Jiantao Jiao |
 | [04](./ucb_cs294-196_25fa_lec04.md) | Agent Evaluation & Project Overview | Course TAs |
-| 05 | Some Challenges and Lessons from Training Agentic Models | Weizhu Chen |
+| [05](./ucb_cs294-196_25fa_lec05.md) | Some Challenges and Lessons from Training Agentic Models | Weizhu Chen |
 | 06 | Multi-Agent AI | Noam Brown |
 | 07 | Predictable Noise in LLM Benchmarks | Sida Wang |
 | 08 | AI Agents for Accelerating Scientific Discoveries | James Zou |
