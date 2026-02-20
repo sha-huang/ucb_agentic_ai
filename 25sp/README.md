@@ -13,7 +13,7 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9n
 | [03](./ucb_cs294-280_25sp_lec03.md) | On Reasoning, Memory, and Planning of Language Agents | Yu Su |
 | [04](./ucb_cs294-280_25sp_lec04.md) | Open Training Recipes for Reasoning in Language Models | Hannaneh Hajishirzi |
 | [05](./ucb_cs294-280_25sp_lec05.md) | Coding Agents and AI for Vulnerability Detection | Charles Sutton |
-| 06 | Multimodal Autonomous AI Agents | Ruslan Salakhutdinov |
+| [06](./ucb_cs294-280_25sp_lec06.md) | Multimodal Autonomous AI Agents | Ruslan Salakhutdinov |
 | 07 | Multimodal Agents – From Perception to Action | Caiming Xiong |
 | 08 | AlphaProof: When Reinforcement Learning Meets Formal Mathematics | Thomas Hubert |
 | [09](./ucb_cs294-280_25sp_lec09.md) | Language Models for Autoformalization and Theorem Proving | Kaiyu Yang |
