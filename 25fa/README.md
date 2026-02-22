@@ -14,7 +14,7 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZ
 | [03](./ucb_cs294-196_25fa_lec03.md) | Post-Training Verifiable Agents | Jiantao Jiao |
 | [04](./ucb_cs294-196_25fa_lec04.md) | Agent Evaluation & Project Overview | Course TAs |
 | [05](./ucb_cs294-196_25fa_lec05.md) | Some Challenges and Lessons from Training Agentic Models | Weizhu Chen |
-| 06 | Multi-Agent AI | Noam Brown |
+| [06](./ucb_cs294-196_25fa_lec06.md) | Multi-Agent AI | Noam Brown |
 | [07](./ucb_cs294-196_25fa_lec07.md) | Predictable Noise in LLM Benchmarks | Sida Wang |
 | 08 | AI Agents for Accelerating Scientific Discoveries | James Zou |
 | [09](./ucb_cs294-196_25fa_lec09.md) | Practical Lessons from Deploying Real-World AI Agents | Clay Bavor |
