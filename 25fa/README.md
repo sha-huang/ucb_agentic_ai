@@ -16,7 +16,7 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZ
 | [05](./ucb_cs294-196_25fa_lec05.md) | Some Challenges and Lessons from Training Agentic Models | Weizhu Chen |
 | [06](./ucb_cs294-196_25fa_lec06.md) | Multi-Agent AI | Noam Brown |
 | [07](./ucb_cs294-196_25fa_lec07.md) | Predictable Noise in LLM Benchmarks | Sida Wang |
-| 08 | AI Agents for Accelerating Scientific Discoveries | James Zou |
+| [08](./ucb_cs294-196_25fa_lec08.md) | AI Agents for Accelerating Scientific Discoveries | James Zou |
 | [09](./ucb_cs294-196_25fa_lec09.md) | Practical Lessons from Deploying Real-World AI Agents | Clay Bavor |
 | [10](./ucb_cs294-196_25fa_lec10.md) | AlphaStar Revisited: Multi-Agent Systems in the Era of LLMs | Oriol Vinyals |
 | [11](./ucb_cs294-196_25fa_lec11.md) | Autonomous Agents: Embodiment, Interaction, and Learning | Peter Stone |
