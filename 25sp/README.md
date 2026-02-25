@@ -15,7 +15,7 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9n
 | [05](./ucb_cs294-280_25sp_lec05.md) | Coding Agents and AI for Vulnerability Detection | Charles Sutton |
 | [06](./ucb_cs294-280_25sp_lec06.md) | Multimodal Autonomous AI Agents | Ruslan Salakhutdinov |
 | 07 | Multimodal Agents – From Perception to Action | Caiming Xiong |
-| 08 | AlphaProof: When Reinforcement Learning Meets Formal Mathematics | Thomas Hubert |
+| [08](./ucb_cs294-280_25sp_lec08.md) | AlphaProof: When Reinforcement Learning Meets Formal Mathematics | Thomas Hubert |
 | [09](./ucb_cs294-280_25sp_lec09.md) | Language Models for Autoformalization and Theorem Proving | Kaiyu Yang |
 | 10 | Bridging Informal and Formal Mathematics Reasoning | Sean Welleck |
 | [11](./ucb_cs294-280_25sp_lec11.md) | Abstraction and Discovery with Large Language Model Agents | Swarat Chaudhuri |
