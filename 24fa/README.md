@@ -14,7 +14,7 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4
 | [04](./ucb_cs294-196_24fa_lec04.md) | Enterprise Trends for Generative AI, and Key Components of Building Successful Agents / Applications | Burak Gokturk |
 | 05 | Compound AI Systems & the DSPy Framework | Omar Khattab |
 | [06](./ucb_cs294-196_24fa_lec06.md) | Agents for Software Development | Graham Neubig |
-| [07](./ucb_cs294-196_24fa_lec07.md) | AI Agents for Enterprise Workflows | Nicolas Chapados |
+| [07](./ucb_cs294-196_24fa_lec07.md) | AI Agents for Enterprise Workflows | Nicolas Chapados<br>Alexandre Drouin |
 | [08](./ucb_cs294-196_24fa_lec08.md) | Towards a Unified Framework of Neural and Symbolic Decision Making | Yuandong Tian |
 | 09 | Project GR00T: A Blueprint for Generalist Robotics | Jim Fan |
 | [10](./ucb_cs294-196_24fa_lec10.md) | Open-Source and Science in the Era of Foundation Models | Percy Liang |
