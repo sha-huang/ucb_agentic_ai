@@ -10,7 +10,7 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4
 | -- | -- | -- |
 | [01](./ucb_cs294-196_24fa_lec01.md) | LLM Reasoning | Denny Zhou |
 | [02](./ucb_cs294-196_24fa_lec02.md) | LLM Agents: Brief History and Overview | Shunyu Yao |
-| 03 | Part 1: Agentic AI Frameworks & Autogen<br>Part 2: Building a Multimodal Knowledge Assistant | Chi Wang<br>Jerry Liu |
+| [03](./ucb_cs294-196_24fa_lec03.md) | Part 1: Agentic AI Frameworks & Autogen<br>Part 2: Building a Multimodal Knowledge Assistant | Chi Wang<br>Jerry Liu |
 | [04](./ucb_cs294-196_24fa_lec04.md) | Enterprise Trends for Generative AI, and Key Components of Building Successful Agents / Applications | Burak Gokturk |
 | 05 | Compound AI Systems & the DSPy Framework | Omar Khattab |
 | [06](./ucb_cs294-196_24fa_lec06.md) | Agents for Software Development | Graham Neubig |
