@@ -17,6 +17,6 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9n
 | [07](./ucb_cs294-280_25sp_lec07.md) | Multimodal Agents – From Perception to Action | Caiming Xiong |
 | [08](./ucb_cs294-280_25sp_lec08.md) | AlphaProof: When Reinforcement Learning Meets Formal Mathematics | Thomas Hubert |
 | [09](./ucb_cs294-280_25sp_lec09.md) | Language Models for Autoformalization and Theorem Proving | Kaiyu Yang |
-| 10 | Bridging Informal and Formal Mathematics Reasoning | Sean Welleck |
+| [10](./ucb_cs294-280_25sp_lec10.md) | Bridging Informal and Formal Mathematics Reasoning | Sean Welleck |
 | [11](./ucb_cs294-280_25sp_lec11.md) | Abstraction and Discovery with Large Language Model Agents | Swarat Chaudhuri |
 | 12 | Towards Building Safe and Secure Agentic AI | Dawn Song |
