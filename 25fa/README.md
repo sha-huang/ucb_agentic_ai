@@ -20,4 +20,4 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgoqGkm4UeqNeZ
 | [09](./ucb_cs294-196_25fa_lec09.md) | Practical Lessons from Deploying Real-World AI Agents | Clay Bavor |
 | [10](./ucb_cs294-196_25fa_lec10.md) | AlphaStar Revisited: Multi-Agent Systems in the Era of LLMs | Oriol Vinyals |
 | [11](./ucb_cs294-196_25fa_lec11.md) | Autonomous Agents: Embodiment, Interaction, and Learning | Peter Stone |
-| 12 | Towards Building Safe & Secure Agentic AI | Dawn Song |
+| [12](./ucb_cs294-196_25fa_lec12.md) | Towards Building Safe & Secure Agentic AI | Dawn Song |
