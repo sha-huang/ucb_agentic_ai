@@ -19,4 +19,4 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4
 | [09](./ucb_cs294-196_24fa_lec09.md) | Project GR00T: A Blueprint for Generalist Robotics | Jim Fan |
 | [10](./ucb_cs294-196_24fa_lec10.md) | Open-Source and Science in the Era of Foundation Models | Percy Liang |
 | [11](./ucb_cs294-196_24fa_lec11.md) | Measuring Agent Capabilities and Anthropic's RSP | Ben Mann |
-| 12 | Towards Building Safe & Trustworthy AI Agents and A Path for Science- and Evidence-based AI Policy | Dawn Song |
+| [12](./ucb_cs294-196_24fa_lec12.md) | Towards Building Safe & Trustworthy AI Agents and A Path for Science- and Evidence-based AI Policy | Dawn Song |
