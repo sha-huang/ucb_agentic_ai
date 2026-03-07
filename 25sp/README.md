@@ -19,4 +19,4 @@ Link to [playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgorL3AW8REU9n
 | [09](./ucb_cs294-280_25sp_lec09.md) | Language Models for Autoformalization and Theorem Proving | Kaiyu Yang |
 | [10](./ucb_cs294-280_25sp_lec10.md) | Bridging Informal and Formal Mathematics Reasoning | Sean Welleck |
 | [11](./ucb_cs294-280_25sp_lec11.md) | Abstraction and Discovery with Large Language Model Agents | Swarat Chaudhuri |
-| 12 | Towards Building Safe and Secure Agentic AI | Dawn Song |
+| [12](./ucb_cs294-280_25sp_lec12.md) | Towards Building Safe and Secure Agentic AI | Dawn Song |
