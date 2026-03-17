@@ -9,8 +9,21 @@ This is a collection of my notes on the guest lecture series organized by Prof. 
 | CS294/194-196 | Agentic AI | Fall 2025 | [agenticai-learning.org/f25](https://agenticai-learning.org/f25) | [rdi.berkeley.edu/agentic-ai/f25](https://rdi.berkeley.edu/agentic-ai/f25) | [25fa](./25fa/) |
 
 ## Status
-Completed:
-Fall 2025 Lecture [01](./25fa/ucb_cs294-196_25fa_lec01.md) | [02](./25fa/ucb_cs294-196_25fa_lec02.md) | [03](./25fa/ucb_cs294-196_25fa_lec03.md) | [04](./25fa/ucb_cs294-196_25fa_lec04.md)
+&#x2705; Completed: Fall 2025 Lecture [01](./25fa/ucb_cs294-196_25fa_lec01.md) | [02](./25fa/ucb_cs294-196_25fa_lec02.md) | [03](./25fa/ucb_cs294-196_25fa_lec03.md) | [04](./25fa/ucb_cs294-196_25fa_lec04.md)
+
+## By speakers' affiliated organizations (at the time of lecture)
+
+### Industry:
+
+| Company | Speakers |
+| -- | -- |
+| OpenAI | [Shunyu Yao](./24fa/ucb_cs294-196_24fa_lec02.md) \| [Noam Brown](./25fa/ucb_cs294-196_25fa_lec06.md) \| [Yann Dubois](./25fa/ucb_cs294-196_25fa_lec01.md) |
+| Anthropic | [Ben Mann](./24fa/ucb_cs294-196_24fa_lec11.md) | 
+| Google<br>Deepmind | [Danny Zhou](./24fa/ucb_cs294-196_24fa_lec01.md) \| [Chi Wang](./24fa/ucb_cs294-196_24fa_lec03.md) \| [Burak Gokturk](./24fa/ucb_cs294-196_24fa_lec04.md) \| [Xinyun Chen](./25sp/ucb_cs294-280_25sp_lec01.md) \| [Charles Sutton](./25sp/ucb_cs294-280_25sp_lec05.md) \| [Thomas Hubert](./25sp/ucb_cs294-280_25sp_lec08.md) \| [Swarat Chaudhuri](./25sp/ucb_cs294-280_25sp_lec11.md) \| [Oriol Vinyals](./25fa/ucb_cs294-196_25fa_lec10.md) |
+| Microsoft | [Weizhu Chen](./25fa/ucb_cs294-196_25fa_lec05.md) |
+| Meta | [Yuandong Tian](./24fa/ucb_cs294-196_24fa_lec08.md) \| [Jason Weston](./25sp/ucb_cs294-280_25sp_lec02.md) \| [Ruslan Salakhutdinov](./25sp/ucb_cs294-280_25sp_lec06.md) \| [Kaiyu Yang](./25sp/ucb_cs294-280_25sp_lec09.md) \| [Sida Wang](./25fa/ucb_cs294-196_25fa_lec07.md) |
+| Nvidia | [Jim Fan](./24fa/ucb_cs294-196_24fa_lec09.md) \| [Yangqing Jia](./25fa/ucb_cs294-196_25fa_lec02.md) \| [Jiantao Jiao](./25fa/ucb_cs294-196_25fa_lec03.md) |
+| Other Companies | [Jerry Liu](./24fa/ucb_cs294-196_24fa_lec03.md#lecture-03-part-2-building-a-multimodal-knowledge-assistant) \| [Omar Khattab](./24fa/ucb_cs294-196_24fa_lec05.md) \| [Nicolas Chapados](./24fa/ucb_cs294-196_24fa_lec07.md) \| [Alexandre Drouin](./24fa/ucb_cs294-196_24fa_lec07.md) \| [Caiming Xiong](./25sp/ucb_cs294-280_25sp_lec07.md) \| [Clay Bavor](./25fa/ucb_cs294-196_25fa_lec09.md) |
 
 Feel free to correct / improve if any part is unclear.
 
