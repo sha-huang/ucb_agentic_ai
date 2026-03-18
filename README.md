@@ -25,6 +25,19 @@ This is a collection of my notes on the guest lecture series organized by Prof. 
 | Nvidia | [Jim Fan](./24fa/ucb_cs294-196_24fa_lec09.md) \| [Yangqing Jia](./25fa/ucb_cs294-196_25fa_lec02.md) \| [Jiantao Jiao](./25fa/ucb_cs294-196_25fa_lec03.md) |
 | Other Companies | [Jerry Liu](./24fa/ucb_cs294-196_24fa_lec03.md#lecture-03-part-2-building-a-multimodal-knowledge-assistant) \| [Omar Khattab](./24fa/ucb_cs294-196_24fa_lec05.md) \| [Nicolas Chapados](./24fa/ucb_cs294-196_24fa_lec07.md) \| [Alexandre Drouin](./24fa/ucb_cs294-196_24fa_lec07.md) \| [Caiming Xiong](./25sp/ucb_cs294-280_25sp_lec07.md) \| [Clay Bavor](./25fa/ucb_cs294-196_25fa_lec09.md) |
 
+<br>
+
+### Academia:
+
+| Institution | Speakers |
+| -- | -- |
+| University of California, Berkeley | [Dawn Song](./25fa/ucb_cs294-196_25fa_lec12.md) \| [Jiantao Jiao](./25fa/ucb_cs294-196_25fa_lec03.md) |
+| Stanford University | [Percy Liang](./24fa/ucb_cs294-196_24fa_lec10.md) \| [James Zou](./25fa/ucb_cs294-196_25fa_lec08.md) |
+| Carnegie Mellon University | [Graham Neubig](./24fa/ucb_cs294-196_24fa_lec06.md) \| [Ruslan Salakhutdinov](./25sp/ucb_cs294-280_25sp_lec06.md) \| [Sean Welleck](./25sp/ucb_cs294-280_25sp_lec10.md) |
+| University of Washington | [Hannaneh Hajishirzi](./25sp/ucb_cs294-280_25sp_lec04.md) |
+| University of Texas at Austin | [Swarat Chaudhuri](./25sp/ucb_cs294-280_25sp_lec11.md) \| [Peter Stone](./25fa/ucb_cs294-196_25fa_lec11.md) |
+| Ohio State University | [Yu Su](./25sp/ucb_cs294-280_25sp_lec03.md) |
+
 Feel free to correct / improve if any part is unclear.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
