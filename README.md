@@ -38,6 +38,21 @@ This is a collection of my notes on the guest lecture series organized by Prof. 
 | University of Texas at Austin | [Swarat Chaudhuri](./25sp/ucb_cs294-280_25sp_lec11.md) \| [Peter Stone](./25fa/ucb_cs294-196_25fa_lec11.md) |
 | Ohio State University | [Yu Su](./25sp/ucb_cs294-280_25sp_lec03.md) |
 
+<br>
+
+## By speakers' Ph.D. education
+
+| Institution | Speakers |
+| -- | -- |
+| University of California, Berkeley | [Percy Liang](./24fa/ucb_cs294-196_24fa_lec10.md) \| [Dawn Song](./25fa/ucb_cs294-196_25fa_lec12.md) \| [Xinyun Chen](./25sp/ucb_cs294-280_25sp_lec01.md) \| [Oriol Vinyals](./25fa/ucb_cs294-196_25fa_lec10.md) \| [Yangqing Jia](./25fa/ucb_cs294-196_25fa_lec02.md) |
+| University of California, Santa Barbara | [Yu Su](./25sp/ucb_cs294-280_25sp_lec03.md) |
+| Stanford University | [Burak Gokturk](./24fa/ucb_cs294-196_24fa_lec04.md) \| [Omar Khattab](./24fa/ucb_cs294-196_24fa_lec05.md) \| [Jim Fan](./24fa/ucb_cs294-196_24fa_lec09.md) \| [Sida Wang](./25fa/ucb_cs294-196_25fa_lec07.md) \| [Yann Dubois](./25fa/ucb_cs294-196_25fa_lec01.md) \| [Jiantao Jiao](./25fa/ucb_cs294-196_25fa_lec03.md) |
+| Carnegie Mellon University | [Yuandong Tian](./24fa/ucb_cs294-196_24fa_lec08.md) \| [Noam Brown](./25fa/ucb_cs294-196_25fa_lec06.md) \| [Peter Stone](./25fa/ucb_cs294-196_25fa_lec11.md) |
+| Princeton University | [Shunyu Yao](./24fa/ucb_cs294-196_24fa_lec02.md) \| [Jerry Liu](./24fa/ucb_cs294-196_24fa_lec03.md) \| [Kaiyu Yang](./25sp/ucb_cs294-280_25sp_lec09.md) |
+| Harvard University | [James Zou](./25fa/ucb_cs294-196_25fa_lec08.md) |
+| University of Illinois Urbana-Champaign | [Chi Wang](./24fa/ucb_cs294-196_24fa_lec03.md) \| [Hannaneh Hajishirzi](./25sp/ucb_cs294-280_25sp_lec04.md) |
+| Other Universities | [Nicolas Chapados](./24fa/ucb_cs294-196_24fa_lec07.md) \| [Alexandre Drouin](./24fa/ucb_cs294-196_24fa_lec07.md) \| [Charles Sutton](./25sp/ucb_cs294-280_25sp_lec05.md) \| [Caiming Xiong](./25sp/ucb_cs294-280_25sp_lec07.md) \| [Sean Welleck](./25sp/ucb_cs294-280_25sp_lec10.md) \| [Swarat Chaudhuri](./25sp/ucb_cs294-280_25sp_lec11.md) \| [Weizhu Chen](./25fa/ucb_cs294-196_25fa_lec05.md) |
+
 Feel free to correct / improve if any part is unclear.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
