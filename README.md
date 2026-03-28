@@ -9,7 +9,11 @@ This is a collection of my notes on the guest lecture series organized by Prof. 
 | CS294/194-196 | Agentic AI | Fall 2025 | [agenticai-learning.org/f25](https://agenticai-learning.org/f25) | [rdi.berkeley.edu/agentic-ai/f25](https://rdi.berkeley.edu/agentic-ai/f25) | [25fa](./25fa/) |
 
 ## Status
-&#x2705; Completed: Fall 2025 Lecture [01](./25fa/ucb_cs294-196_25fa_lec01.md) | [02](./25fa/ucb_cs294-196_25fa_lec02.md) | [03](./25fa/ucb_cs294-196_25fa_lec03.md) | [04](./25fa/ucb_cs294-196_25fa_lec04.md)
+&#x2705; Completed:
+
+Spring 2025 Lecture [01](./25sp/ucb_cs294-280_25sp_lec01.md)
+
+Fall 2025 Lecture [01](./25fa/ucb_cs294-196_25fa_lec01.md) | [02](./25fa/ucb_cs294-196_25fa_lec02.md) | [03](./25fa/ucb_cs294-196_25fa_lec03.md) | [04](./25fa/ucb_cs294-196_25fa_lec04.md)
 
 ## By speakers' affiliated organizations (at the time of lecture)
 
