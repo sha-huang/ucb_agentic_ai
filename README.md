@@ -11,6 +11,8 @@ This is a collection of my notes on the guest lecture series organized by Prof. 
 ## Status
 &#x2705; Completed:
 
+Fall 2024 Lecture [10](./24fa/ucb_cs294-196_24fa_lec10.md)
+
 Spring 2025 Lecture [01](./25sp/ucb_cs294-280_25sp_lec01.md)
 
 Fall 2025 Lecture [01](./25fa/ucb_cs294-196_25fa_lec01.md) | [02](./25fa/ucb_cs294-196_25fa_lec02.md) | [03](./25fa/ucb_cs294-196_25fa_lec03.md) | [04](./25fa/ucb_cs294-196_25fa_lec04.md)
