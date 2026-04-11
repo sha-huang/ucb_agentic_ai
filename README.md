@@ -1,6 +1,8 @@
 # Agentic AI Guest Speaker Series at the University of California, Berkeley
 
-This is a collection of my notes on the guest lecture series organized by Prof. Dawn Song at the Berkeley RDI Center on Decentralization & AI of the University of California, Berkeley
+Link to [GitHub repo](https://github.com/sha-huang/ucb_agentic_ai).
+
+This is a collection of my notes on the guest lecture series organized by Prof. Dawn Song at the Berkeley RDI Center on Decentralization & AI of the University of California, Berkeley.
 
 | Semester | Course Number | Course Title | Public MOOC Website | Course Website | Notes Collection |
 | -- | -- | -- | -- | -- | -- |
@@ -12,11 +14,11 @@ This is a collection of my notes on the guest lecture series organized by Prof. 
 ## Status
 &#x2705; Completed:
 
-Fall 2024 Lecture [10](./24fa/ucb_cs294-196_24fa_lec10.md)
+Fall 2024 Lecture [02](./24fa/ucb_cs294-196_24fa_lec02.md) [10](./24fa/ucb_cs294-196_24fa_lec10.md)
 
 Spring 2025 Lecture [01](./25sp/ucb_cs294-280_25sp_lec01.md)
 
-Fall 2025 Lecture [01](./25fa/ucb_cs294-196_25fa_lec01.md) | [02](./25fa/ucb_cs294-196_25fa_lec02.md) | [03](./25fa/ucb_cs294-196_25fa_lec03.md) | [04](./25fa/ucb_cs294-196_25fa_lec04.md)
+Fall 2025 Lecture [01](./25fa/ucb_cs294-196_25fa_lec01.md) [02](./25fa/ucb_cs294-196_25fa_lec02.md) [03](./25fa/ucb_cs294-196_25fa_lec03.md) [04](./25fa/ucb_cs294-196_25fa_lec04.md)
 
 ## By speakers' affiliated organizations (at the time of lecture)
 
