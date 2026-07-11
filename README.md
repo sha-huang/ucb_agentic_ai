@@ -1,6 +1,6 @@
 # Agentic AI Guest Speaker Series at the University of California, Berkeley
 
-Link to [GitHub repo](https://github.com/sha-huang/ucb_agentic_ai).
+Link to [GitHub repo](https://github.com/sha-huang/ucb-agentic-ai).
 
 This is a collection of my notes on the guest lecture series organized by Prof. Dawn Song at the Berkeley RDI Center on Decentralization & AI of the University of California, Berkeley.
 
